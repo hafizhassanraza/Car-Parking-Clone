@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: acac1777c010c2a4fac547095f965881
+labels:
+- Car
+- Sport
+- Vehicle
+- Racer
+- Lowpoly
+- Lod
+- Hardsurface
+- Wheel
+- Auto
+- Automobile
+- Game
+- Mobile
+- Ride
+- Chase
+- Run
+- Drift
+- Fast
+- Sports
+- Race
+- Wheels
+- Interior
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Body_13_LOD1
+    100004: Glass_13_LOD1
+    100006: Matte_13_LOD1
+    100008: Taillights_13_LOD1
+    100010: Wheel_Back_LOD1
+    100012: Wheel_L_LOD1
+    100014: Wheel_R_LOD1
+    100016: Wheel_Back_L_LOD1
+    100018: Wheel_Back_R_LOD1
+    400000: //RootNode
+    400002: Body_13_LOD1
+    400004: Glass_13_LOD1
+    400006: Matte_13_LOD1
+    400008: Taillights_13_LOD1
+    400010: Wheel_Back_LOD1
+    400012: Wheel_L_LOD1
+    400014: Wheel_R_LOD1
+    400016: Wheel_Back_L_LOD1
+    400018: Wheel_Back_R_LOD1
+    2300000: //RootNode
+    2300002: Body_13_LOD1
+    2300004: Glass_13_LOD1
+    2300006: Matte_13_LOD1
+    2300008: Taillights_13_LOD1
+    2300010: Wheel_Back_LOD1
+    2300012: Wheel_L_LOD1
+    2300014: Wheel_R_LOD1
+    2300016: Wheel_Back_L_LOD1
+    2300018: Wheel_Back_R_LOD1
+    3300000: //RootNode
+    3300002: Body_13_LOD1
+    3300004: Glass_13_LOD1
+    3300006: Matte_13_LOD1
+    3300008: Taillights_13_LOD1
+    3300010: Wheel_Back_LOD1
+    3300012: Wheel_L_LOD1
+    3300014: Wheel_R_LOD1
+    3300016: Wheel_Back_L_LOD1
+    3300018: Wheel_Back_R_LOD1
+    4300000: Taillights_13_LOD1
+    4300002: Wheel_R_LOD1
+    4300004: Wheel_Back_LOD1
+    4300006: Matte_13_LOD1
+    4300008: Body_13_LOD1
+    4300010: Wheel_L_LOD1
+    4300012: Glass_13_LOD1
+    4300014: Wheel_Back_R_LOD1
+    4300016: Wheel_Back_L_LOD1
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_13_001
+    second: {fileID: 2100000, guid: 0eab9f6ce2dd60f459db16f70ebe5a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_13_001
+    second: {fileID: 2100000, guid: 0de2857e624b78842bfe252a1ec36e51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_13_001
+    second: {fileID: 2100000, guid: c01b58052868b9f4e9586ace09daf124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Taillights_9-16_002
+    second: {fileID: 2100000, guid: e5e4074a80730c54ba90c23e55e9d51a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel_13_001
+    second: {fileID: 2100000, guid: d8cd85a424b21fe41907f4e747e69fe3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

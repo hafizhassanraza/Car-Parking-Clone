@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 95292da10eb88814a855694de4d01286
+labels:
+- Car
+- Sport
+- Vehicle
+- Racer
+- Lowpoly
+- Lod
+- Hardsurface
+- Wheel
+- Auto
+- Automobile
+- Game
+- Mobile
+- Ride
+- Chase
+- Run
+- Drift
+- Fast
+- Sports
+- Race
+- Wheels
+- Interior
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body_13_MustangShelby
+    100002: //RootNode
+    100004: Glass_13_MustangShelby
+    100006: Matte_13_MustangShelby
+    100008: Taillight_13_MustangShelby
+    100010: Wheel_Back
+    100012: Wheel_L
+    100014: Wheel_R
+    100016: Taillights_13_MustangShelby
+    100018: Body_13
+    100020: Glass_13
+    100022: Matte_13
+    100024: Taillight_13
+    100026: Glass_light
+    100028: Wheel_Back_L
+    100030: Wheel_Back_R
+    400000: Body_13_MustangShelby
+    400002: //RootNode
+    400004: Glass_13_MustangShelby
+    400006: Matte_13_MustangShelby
+    400008: Taillight_13_MustangShelby
+    400010: Wheel_Back
+    400012: Wheel_L
+    400014: Wheel_R
+    400016: Taillights_13_MustangShelby
+    400018: Body_13
+    400020: Glass_13
+    400022: Matte_13
+    400024: Taillight_13
+    400026: Glass_light
+    400028: Wheel_Back_L
+    400030: Wheel_Back_R
+    2300000: Body_13_MustangShelby
+    2300002: Glass_13_MustangShelby
+    2300004: Matte_13_MustangShelby
+    2300006: Taillight_13_MustangShelby
+    2300008: Wheel_Back
+    2300010: Wheel_L
+    2300012: Wheel_R
+    2300014: Taillights_13_MustangShelby
+    2300016: Body_13
+    2300018: Glass_13
+    2300020: Matte_13
+    2300022: Taillight_13
+    2300024: Glass_light
+    2300026: Wheel_Back_L
+    2300028: Wheel_Back_R
+    3300000: Body_13_MustangShelby
+    3300002: Glass_13_MustangShelby
+    3300004: Matte_13_MustangShelby
+    3300006: Taillight_13_MustangShelby
+    3300008: Wheel_Back
+    3300010: Wheel_L
+    3300012: Wheel_R
+    3300014: Taillights_13_MustangShelby
+    3300016: Body_13
+    3300018: Glass_13
+    3300020: Matte_13
+    3300022: Taillight_13
+    3300024: Glass_light
+    3300026: Wheel_Back_L
+    3300028: Wheel_Back_R
+    4300000: Body_13_MustangShelby
+    4300002: Glass_13_MustangShelby
+    4300004: Taillight_13_MustangShelby
+    4300006: Matte_13_MustangShelby
+    4300008: Wheel_L
+    4300010: Wheel_Back
+    4300012: Wheel_R
+    4300014: Taillights_13_MustangShelby
+    4300016: Matte_13
+    4300018: Taillight_13
+    4300020: Body_13
+    4300022: Glass_13
+    4300024: Glass_light
+    4300026: Wheel_Back_R
+    4300028: Wheel_Back_L
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

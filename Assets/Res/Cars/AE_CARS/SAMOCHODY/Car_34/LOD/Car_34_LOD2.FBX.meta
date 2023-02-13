@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 03829d361e196994385f6a8a2f7fdef2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body_34_LOD2
+    100002: //RootNode
+    100004: Glass_34_LOD2
+    100006: Matte_34_LOD2
+    100008: Taillights_34_LOD2
+    100010: Wheel_Back_LOD2
+    100012: Wheel_L_LOD2
+    100014: Wheel_R_LOD2
+    100016: Wheel_Back_L_LOD2
+    100018: Wheel_Back_R_LOD2
+    400000: Body_34_LOD2
+    400002: //RootNode
+    400004: Glass_34_LOD2
+    400006: Matte_34_LOD2
+    400008: Taillights_34_LOD2
+    400010: Wheel_Back_LOD2
+    400012: Wheel_L_LOD2
+    400014: Wheel_R_LOD2
+    400016: Wheel_Back_L_LOD2
+    400018: Wheel_Back_R_LOD2
+    2300000: Body_34_LOD2
+    2300002: Glass_34_LOD2
+    2300004: Matte_34_LOD2
+    2300006: Taillights_34_LOD2
+    2300008: Wheel_Back_LOD2
+    2300010: Wheel_L_LOD2
+    2300012: Wheel_R_LOD2
+    2300014: Wheel_Back_L_LOD2
+    2300016: Wheel_Back_R_LOD2
+    3300000: Body_34_LOD2
+    3300002: Glass_34_LOD2
+    3300004: Matte_34_LOD2
+    3300006: Taillights_34_LOD2
+    3300008: Wheel_Back_LOD2
+    3300010: Wheel_L_LOD2
+    3300012: Wheel_R_LOD2
+    3300014: Wheel_Back_L_LOD2
+    3300016: Wheel_Back_R_LOD2
+    4300000: Glass_34_LOD2
+    4300002: Wheel_R_LOD2
+    4300004: Wheel_Back_LOD2
+    4300006: Wheel_L_LOD2
+    4300008: Taillights_34_LOD2
+    4300010: Body_34_LOD2
+    4300012: Matte_34_LOD2
+    4300014: Wheel_Back_R_LOD2
+    4300016: Wheel_Back_L_LOD2
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_34_002
+    second: {fileID: 2100000, guid: a23c686b22ddd6047b1933f47130baeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_34_002
+    second: {fileID: 2100000, guid: 3fefa2bfbe302e2448f4d1275c5707bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights_32_40_001
+    second: {fileID: 2100000, guid: 11e14134893bd3f44933f9f985ec8efc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_34_002
+    second: {fileID: 2100000, guid: 0ce8062d7d6d51e45a769c9235619ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel_34_002
+    second: {fileID: 2100000, guid: 2fe44659f930bbb45bc1592967e5d975, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

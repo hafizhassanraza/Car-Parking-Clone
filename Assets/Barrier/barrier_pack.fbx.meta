@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 29eb3811df69e0444a06ec0ad8a2058f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: big_cone
+    100004: big_cone_orange_big_cone.001
+    100006: cone
+    100008: cone_orange_cone.001
+    100010: fence
+    100012: fence_barrier
+    100014: pyramid_barrier
+    100016: short_barrier
+    100018: short_barrier_painted.001_short_barrier.002
+    100020: short_barrier_signed_short_barrier.001
+    100022: standart_barrier_painted_standart_barrier_standart_barrier.001
+    100024: standart_barrier_standart_barrier_standart_barrier.000
+    100026: stick
+    100028: wall_barrier_painted_wall_barrier
+    100030: wall_barrier_wall_barrier.001
+    100032: warning_sign_warnin_sign
+    100034: warning_sing_back_warnin_sign.001
+    400000: //RootNode
+    400002: big_cone
+    400004: big_cone_orange_big_cone.001
+    400006: cone
+    400008: cone_orange_cone.001
+    400010: fence
+    400012: fence_barrier
+    400014: pyramid_barrier
+    400016: short_barrier
+    400018: short_barrier_painted.001_short_barrier.002
+    400020: short_barrier_signed_short_barrier.001
+    400022: standart_barrier_painted_standart_barrier_standart_barrier.001
+    400024: standart_barrier_standart_barrier_standart_barrier.000
+    400026: stick
+    400028: wall_barrier_painted_wall_barrier
+    400030: wall_barrier_wall_barrier.001
+    400032: warning_sign_warnin_sign
+    400034: warning_sing_back_warnin_sign.001
+    2100000: warning_sing
+    2100002: wall_barrier
+    2100004: stick
+    2100006: short_barrier
+    2100008: None.002
+    2100010: fenced_barrier
+    2100012: fence
+    2100014: None.001
+    2100016: None
+    2100018: barrier
+    2100020: barrier_painted
+    2100022: short_barrier_painted
+    2100024: short_barrier_signed
+    2100026: warning_sign_back
+    2100028: wall_barrier_painted
+    2100030: None.003
+    2100032: None.004
+    2300000: big_cone
+    2300002: big_cone_orange_big_cone.001
+    2300004: cone
+    2300006: cone_orange_cone.001
+    2300008: fence
+    2300010: fence_barrier
+    2300012: pyramid_barrier
+    2300014: short_barrier
+    2300016: short_barrier_painted.001_short_barrier.002
+    2300018: short_barrier_signed_short_barrier.001
+    2300020: standart_barrier_painted_standart_barrier_standart_barrier.001
+    2300022: standart_barrier_standart_barrier_standart_barrier.000
+    2300024: stick
+    2300026: wall_barrier_painted_wall_barrier
+    2300028: wall_barrier_wall_barrier.001
+    2300030: warning_sign_warnin_sign
+    2300032: warning_sing_back_warnin_sign.001
+    3300000: big_cone
+    3300002: big_cone_orange_big_cone.001
+    3300004: cone
+    3300006: cone_orange_cone.001
+    3300008: fence
+    3300010: fence_barrier
+    3300012: pyramid_barrier
+    3300014: short_barrier
+    3300016: short_barrier_painted.001_short_barrier.002
+    3300018: short_barrier_signed_short_barrier.001
+    3300020: standart_barrier_painted_standart_barrier_standart_barrier.001
+    3300022: standart_barrier_standart_barrier_standart_barrier.000
+    3300024: stick
+    3300026: wall_barrier_painted_wall_barrier
+    3300028: wall_barrier_wall_barrier.001
+    3300030: warning_sign_warnin_sign
+    3300032: warning_sing_back_warnin_sign.001
+    4300000: warning_sign_warnin_sign
+    4300002: wall_barrier_painted_wall_barrier
+    4300004: stick
+    4300006: short_barrier
+    4300008: pyramid_barrier
+    4300010: fence_barrier
+    4300012: fence
+    4300014: cone
+    4300016: big_cone
+    4300018: standart_barrier_painted_standart_barrier_standart_barrier.001
+    4300020: standart_barrier_standart_barrier_standart_barrier.000
+    4300022: short_barrier_signed_short_barrier.001
+    4300024: short_barrier_painted.001_short_barrier.002
+    4300026: warning_sing_back_warnin_sign.001
+    4300028: wall_barrier_wall_barrier.001
+    4300030: big_cone_orange_big_cone.001
+    4300032: cone_orange_cone.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None
+    second: {fileID: 2100000, guid: 1b5f472ab80a91e49a197100e3274e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None.001
+    second: {fileID: 2100000, guid: a791a9f7385c94a4399c67defb934b53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None.002
+    second: {fileID: 2100000, guid: 48d14ab88833da0478c697976f9aeb96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None.003
+    second: {fileID: 2100000, guid: 16fcbf20905b7a9428733347558b0015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None.004
+    second: {fileID: 2100000, guid: f2cb4f8b5d5a274449cc946940bc0ebb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barrier
+    second: {fileID: 2100000, guid: fa66b531eaf7d4a42b0544924d85094f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: barrier_painted
+    second: {fileID: 2100000, guid: 7af24a69c28c55447834ffe98b1ef597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fence
+    second: {fileID: 2100000, guid: b8638786c1759074193dd2a3446a17b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fenced_barrier
+    second: {fileID: 2100000, guid: bab26e10c6c0ddc41a62811c2406ce32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: short_barrier
+    second: {fileID: 2100000, guid: 601b4b760d7374841b8750d4d5fb2bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: short_barrier_painted
+    second: {fileID: 2100000, guid: 7bdcc053fb21f3c4d8523f22809ed9c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: short_barrier_signed
+    second: {fileID: 2100000, guid: 868000dec4327d8448396bae1656065f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stick
+    second: {fileID: 2100000, guid: 410bbd99cacc1b54d8954903649cf2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_barrier
+    second: {fileID: 2100000, guid: 0e51bce0680b8d5479ea84bb0e28db5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_barrier_painted
+    second: {fileID: 2100000, guid: 314f20dcfb0da0a4d9a960c56eec9248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: warning_sign_back
+    second: {fileID: 2100000, guid: 027c08d5f3acd7542bbf648300cc3a1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: warning_sing
+    second: {fileID: 2100000, guid: 6b40658cd0e36554b86320fd72a8bdbe, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

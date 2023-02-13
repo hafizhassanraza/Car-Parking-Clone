@@ -1,0 +1,7 @@
+Hi
+
+Unity baked lightmaps doesn't work properly on diffrent version of Unity's
+Please rebuild lightmaps for each level
+All settings are pre made and just need to press build button and wait!!!
+Lightmap settings orginally is made for mobile devices
+Bake one day and one night scene and use lightmapdata to oyher similar scenes

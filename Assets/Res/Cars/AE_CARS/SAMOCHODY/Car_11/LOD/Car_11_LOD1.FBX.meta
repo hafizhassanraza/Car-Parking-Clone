@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 44461c4acf4154042b24328528023c80
+labels:
+- Car
+- Sport
+- Vehicle
+- Racer
+- Lowpoly
+- Lod
+- Hardsurface
+- Wheel
+- Auto
+- Automobile
+- Game
+- Mobile
+- Ride
+- Chase
+- Run
+- Drift
+- Fast
+- Sports
+- Race
+- Wheels
+- Interior
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body_11_koenigsegg-agera_LOD1
+    100002: //RootNode
+    100004: Glass_11_koenigsegg-agera_LOD1
+    100006: Matte_11_koenigsegg-agera_LOD1
+    100008: Taillights_11_koenigsegg-agera_LOD1
+    100010: Wheel_Back_LOD1
+    100012: Wheel_L_LOD1
+    100014: Wheel_R_LOD1
+    100016: Body_11
+    100018: Glass_11
+    100020: Matte_11
+    100022: Taillights_11
+    100024: Wheel_Back_L_LOD1
+    100026: Wheel_Back_R_LOD1
+    400000: Body_11_koenigsegg-agera_LOD1
+    400002: //RootNode
+    400004: Glass_11_koenigsegg-agera_LOD1
+    400006: Matte_11_koenigsegg-agera_LOD1
+    400008: Taillights_11_koenigsegg-agera_LOD1
+    400010: Wheel_Back_LOD1
+    400012: Wheel_L_LOD1
+    400014: Wheel_R_LOD1
+    400016: Body_11
+    400018: Glass_11
+    400020: Matte_11
+    400022: Taillights_11
+    400024: Wheel_Back_L_LOD1
+    400026: Wheel_Back_R_LOD1
+    2300000: Body_11_koenigsegg-agera_LOD1
+    2300002: Glass_11_koenigsegg-agera_LOD1
+    2300004: Matte_11_koenigsegg-agera_LOD1
+    2300006: Taillights_11_koenigsegg-agera_LOD1
+    2300008: Wheel_Back_LOD1
+    2300010: Wheel_L_LOD1
+    2300012: Wheel_R_LOD1
+    2300014: Body_11
+    2300016: Glass_11
+    2300018: Matte_11
+    2300020: Taillights_11
+    2300022: Wheel_Back_L_LOD1
+    2300024: Wheel_Back_R_LOD1
+    3300000: Body_11_koenigsegg-agera_LOD1
+    3300002: Glass_11_koenigsegg-agera_LOD1
+    3300004: Matte_11_koenigsegg-agera_LOD1
+    3300006: Taillights_11_koenigsegg-agera_LOD1
+    3300008: Wheel_Back_LOD1
+    3300010: Wheel_L_LOD1
+    3300012: Wheel_R_LOD1
+    3300014: Body_11
+    3300016: Glass_11
+    3300018: Matte_11
+    3300020: Taillights_11
+    3300022: Wheel_Back_L_LOD1
+    3300024: Wheel_Back_R_LOD1
+    4300000: Body_11_koenigsegg-agera_LOD1
+    4300002: Taillights_11_koenigsegg-agera_LOD1
+    4300004: Matte_11_koenigsegg-agera_LOD1
+    4300006: Wheel_Back_LOD1
+    4300008: Wheel_L_LOD1
+    4300010: Glass_11_koenigsegg-agera_LOD1
+    4300012: Wheel_R_LOD1
+    4300014: Matte_11
+    4300016: Taillights_11
+    4300018: Body_11
+    4300020: Glass_11
+    4300022: Wheel_Back_R_LOD1
+    4300024: Wheel_Back_L_LOD1
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_11_001
+    second: {fileID: 2100000, guid: deb7536daf201f54e88e6d18cf2b5268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_11_001
+    second: {fileID: 2100000, guid: be38979704b9d0c4f9778285fd4f6510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights_9-16_001
+    second: {fileID: 2100000, guid: 87dbbee2bb549444fbde462f1feba6bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matte_11_001
+    second: {fileID: 2100000, guid: f79a38a64f99ff24c9710f805a1695a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel_11_001
+    second: {fileID: 2100000, guid: 7176e745db9c12a4ca902de2f50b1317, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

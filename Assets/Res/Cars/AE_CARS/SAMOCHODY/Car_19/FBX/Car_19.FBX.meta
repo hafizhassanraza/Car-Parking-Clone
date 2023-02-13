@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: bf2feccf4e67ff74cbf77a135a62d736
+labels:
+- Car
+- Sports
+- Vehicle
+- Race
+- Racer
+- Lowpoly
+- Lod
+- Hardsurface
+- Wheels
+- Auto
+- Automobile
+- Game
+- Mobile
+- Ride
+- Chase
+- Run
+- Fast
+- Interior
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body_19_Mitsubishi_Lancer_Evo
+    100002: //RootNode
+    100004: Glass_19_Mitsubishi_Lancer_Evo
+    100006: Matte_19_Mitsubishi_Lancer_Evo
+    100008: Taillight_19_Mitsubishi_Lancer_Evo
+    100010: Wheel_Back
+    100012: Wheel_L
+    100014: Wheel_R
+    100016: Body_19
+    100018: Glass_19
+    100020: Matte_19
+    100022: Taillights_19
+    100024: Ref_19
+    100026: Taillight_19
+    100028: Wheel_19_BL
+    100030: Wheel_19_BR
+    100032: Wheel_19_L
+    100034: Wheel_19_R
+    100036: break_L
+    100038: break_R
+    100040: Glass_light
+    100042: Wheel_Back_L
+    100044: Wheel_Back_R
+    400000: Body_19_Mitsubishi_Lancer_Evo
+    400002: //RootNode
+    400004: Glass_19_Mitsubishi_Lancer_Evo
+    400006: Matte_19_Mitsubishi_Lancer_Evo
+    400008: Taillight_19_Mitsubishi_Lancer_Evo
+    400010: Wheel_Back
+    400012: Wheel_L
+    400014: Wheel_R
+    400016: Body_19
+    400018: Glass_19
+    400020: Matte_19
+    400022: Taillights_19
+    400024: Ref_19
+    400026: Taillight_19
+    400028: Wheel_19_BL
+    400030: Wheel_19_BR
+    400032: Wheel_19_L
+    400034: Wheel_19_R
+    400036: break_L
+    400038: break_R
+    400040: Glass_light
+    400042: Wheel_Back_L
+    400044: Wheel_Back_R
+    2300000: Body_19_Mitsubishi_Lancer_Evo
+    2300002: Glass_19_Mitsubishi_Lancer_Evo
+    2300004: Matte_19_Mitsubishi_Lancer_Evo
+    2300006: Taillight_19_Mitsubishi_Lancer_Evo
+    2300008: Wheel_Back
+    2300010: Wheel_L
+    2300012: Wheel_R
+    2300014: Body_19
+    2300016: Glass_19
+    2300018: Matte_19
+    2300020: Taillights_19
+    2300022: Ref_19
+    2300024: Taillight_19
+    2300026: Wheel_19_BL
+    2300028: Wheel_19_BR
+    2300030: Wheel_19_L
+    2300032: Wheel_19_R
+    2300034: break_L
+    2300036: break_R
+    2300038: Glass_light
+    2300040: Wheel_Back_L
+    2300042: Wheel_Back_R
+    3300000: Body_19_Mitsubishi_Lancer_Evo
+    3300002: Glass_19_Mitsubishi_Lancer_Evo
+    3300004: Matte_19_Mitsubishi_Lancer_Evo
+    3300006: Taillight_19_Mitsubishi_Lancer_Evo
+    3300008: Wheel_Back
+    3300010: Wheel_L
+    3300012: Wheel_R
+    3300014: Body_19
+    3300016: Glass_19
+    3300018: Matte_19
+    3300020: Taillights_19
+    3300022: Ref_19
+    3300024: Taillight_19
+    3300026: Wheel_19_BL
+    3300028: Wheel_19_BR
+    3300030: Wheel_19_L
+    3300032: Wheel_19_R
+    3300034: break_L
+    3300036: break_R
+    3300038: Glass_light
+    3300040: Wheel_Back_L
+    3300042: Wheel_Back_R
+    4300000: Glass_19_Mitsubishi_Lancer_Evo
+    4300002: Body_19_Mitsubishi_Lancer_Evo
+    4300004: Wheel_L
+    4300006: Taillight_19_Mitsubishi_Lancer_Evo
+    4300008: Matte_19_Mitsubishi_Lancer_Evo
+    4300010: Wheel_Back
+    4300012: Wheel_R
+    4300014: Glass_19
+    4300016: Body_19
+    4300018: Taillights_19
+    4300020: Matte_19
+    4300022: Ref_19
+    4300024: Wheel_19_BR
+    4300026: Wheel_19_R
+    4300028: Taillight_19
+    4300030: Wheel_19_BL
+    4300032: Wheel_19_L
+    4300034: break_L
+    4300036: break_R
+    4300038: Glass_light
+    4300040: Wheel_Back_R
+    4300042: Wheel_Back_L
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
